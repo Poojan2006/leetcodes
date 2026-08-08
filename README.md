@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojan2006/leetcodes/tree/master/0009-palindrome-number) |
+| [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
 ## Array
 |  |
 | ------- |
