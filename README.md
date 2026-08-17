@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Poojan2006/leetcodes/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Poojan2006/leetcodes/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Poojan2006/leetcodes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
