@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Poojan2006/leetcodes/tree/master/0038-count-and-say) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
