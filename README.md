@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojan2006/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 ## Binary Search
 |  |
@@ -57,5 +58,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
