@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Poojan2006/leetcodes/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Poojan2006/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -60,4 +61,8 @@
 | ------- |
 | [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Poojan2006/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
