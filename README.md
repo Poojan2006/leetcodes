@@ -25,12 +25,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Poojan2006/leetcodes/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Poojan2006/leetcodes/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -70,4 +72,20 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Poojan2006/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
