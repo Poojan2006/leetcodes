@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojan2006/leetcodes/tree/master/0009-palindrome-number) |
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poojan2006/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
