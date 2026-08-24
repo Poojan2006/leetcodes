@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojan2006/leetcodes/tree/master/0009-palindrome-number) |
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
+| [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poojan2006/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -15,6 +16,7 @@
 | [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Poojan2006/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->
