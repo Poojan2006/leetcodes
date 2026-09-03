@@ -15,6 +15,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojan2006/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
+| [0238-product-of-array-except-self](https://github.com/Poojan2006/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Poojan2006/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Poojan2006/leetcodes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
