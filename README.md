@@ -10,6 +10,7 @@
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poojan2006/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Poojan2006/leetcodes/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
