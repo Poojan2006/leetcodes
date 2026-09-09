@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojan2006/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Poojan2006/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Poojan2006/leetcodes/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Poojan2006/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Poojan2006/leetcodes/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Poojan2006/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Poojan2006/leetcodes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
