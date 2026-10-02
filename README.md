@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojan2006/leetcodes/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -20,6 +21,7 @@
 | [0014-longest-common-prefix](https://github.com/Poojan2006/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Poojan2006/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -112,6 +114,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 ## Prefix Sum
 |  |
@@ -129,5 +132,18 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Poojan2006/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
