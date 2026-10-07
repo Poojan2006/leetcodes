@@ -11,6 +11,7 @@
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3280-convert-date-to-binary](https://github.com/Poojan2006/leetcodes/tree/master/3280-convert-date-to-binary) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poojan2006/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Poojan2006/leetcodes/tree/master/3870-count-commas-in-range) |
@@ -61,6 +62,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojan2006/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3280-convert-date-to-binary](https://github.com/Poojan2006/leetcodes/tree/master/3280-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
