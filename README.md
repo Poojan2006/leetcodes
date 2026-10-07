@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojan2006/leetcodes/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Poojan2006/leetcodes/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Poojan2006/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Poojan2006/leetcodes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Poojan2006/leetcodes/tree/master/0038-count-and-say) |
