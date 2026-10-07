@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Poojan2006/leetcodes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Poojan2006/leetcodes/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Poojan2006/leetcodes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Poojan2006/leetcodes/tree/master/0326-power-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Poojan2006/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
