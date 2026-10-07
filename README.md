@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojan2006/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Poojan2006/leetcodes/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Poojan2006/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Poojan2006/leetcodes/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Poojan2006/leetcodes/tree/master/1009-complement-of-base-10-integer) |
 ## Backtracking
