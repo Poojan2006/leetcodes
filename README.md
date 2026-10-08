@@ -64,6 +64,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Poojan2006/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojan2006/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Poojan2006/leetcodes/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3280-convert-date-to-binary](https://github.com/Poojan2006/leetcodes/tree/master/3280-convert-date-to-binary) |
 ## Sliding Window
@@ -76,6 +77,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Poojan2006/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Poojan2006/leetcodes/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojan2006/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Poojan2006/leetcodes/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poojan2006/leetcodes/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojan2006/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Poojan2006/leetcodes/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
