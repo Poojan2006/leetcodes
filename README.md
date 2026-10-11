@@ -31,6 +31,7 @@
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Poojan2006/leetcodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Poojan2006/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Poojan2006/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Poojan2006/leetcodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Poojan2006/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
