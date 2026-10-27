@@ -26,6 +26,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojan2006/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Poojan2006/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Poojan2006/leetcodes/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/Poojan2006/leetcodes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Poojan2006/leetcodes/tree/master/0238-product-of-array-except-self) |
@@ -116,6 +117,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Poojan2006/leetcodes/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Poojan2006/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
@@ -125,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Poojan2006/leetcodes/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -193,4 +196,12 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojan2006/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Poojan2006/leetcodes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Poojan2006/leetcodes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
