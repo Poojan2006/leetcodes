@@ -1,6 +1,5 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
         int n = nums.length;
         int expsum=n*(n+1)/2;
         int cursum=0;
