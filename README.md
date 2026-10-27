@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Poojan2006/leetcodes/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Poojan2006/leetcodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Poojan2006/leetcodes/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Poojan2006/leetcodes/tree/master/0728-self-dividing-numbers) |
@@ -28,6 +29,7 @@
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Poojan2006/leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/Poojan2006/leetcodes/tree/master/0908-smallest-range-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Poojan2006/leetcodes/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Poojan2006/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojan2006/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poojan2006/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -99,6 +103,7 @@
 | [0078-subsets](https://github.com/Poojan2006/leetcodes/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Poojan2006/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Poojan2006/leetcodes/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Poojan2006/leetcodes/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Poojan2006/leetcodes/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Poojan2006/leetcodes/tree/master/1009-complement-of-base-10-integer) |
@@ -120,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Poojan2006/leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Poojan2006/leetcodes/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
