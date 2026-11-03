@@ -18,6 +18,7 @@
 | [3280-convert-date-to-binary](https://github.com/Poojan2006/leetcodes/tree/master/3280-convert-date-to-binary) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poojan2006/leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poojan2006/leetcodes/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Poojan2006/leetcodes/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Poojan2006/leetcodes/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -39,6 +40,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Poojan2006/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3618-split-array-by-prime-indices](https://github.com/Poojan2006/leetcodes/tree/master/3618-split-array-by-prime-indices) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Poojan2006/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poojan2006/leetcodes/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
