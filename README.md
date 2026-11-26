@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojan2006/leetcodes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Poojan2006/leetcodes/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Poojan2006/leetcodes/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Poojan2006/leetcodes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Poojan2006/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Poojan2006/leetcodes/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Poojan2006/leetcodes/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Poojan2006/leetcodes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Poojan2006/leetcodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Poojan2006/leetcodes/tree/master/0342-power-of-four) |
